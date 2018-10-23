@@ -59,5 +59,5 @@ The following should do the trick (assuming the folder `/Users/tomasp/Temp` exis
     open -n /Applications/Xamarin\ Studio.app/
 
 This will set the variable and start a new instance of Xamarin Studio in the current
-context. Once it appears, reporduce the operation that causes the error, close
+context. Once it appears, reproduce the operation that causes the error, close
 Xamarin Studio and look at the log file.
